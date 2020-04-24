@@ -1,0 +1,29 @@
+.table{
+	position: center;
+	color:black;
+	background-color: #F8F8FF;
+}
+table{
+	box-shadow: 2px 1px 1px;
+}
+
+body{
+	background-color: #F0FFFF;
+}
+strong{
+	color: #A9A9A9;
+}
+a{
+	box-shadow: 1px 1px 1px;
+}
+.jumbotron{
+	background-attachment: fixed;
+	background-size:cover;
+	background-position: 0 -100px;
+	min-height:660px;
+	color: white;
+	
+}
+.jumbroton h1,.jumbroton p{
+	text-shadow: 1px 1px rgba(0,0,0,0.5);
+}
